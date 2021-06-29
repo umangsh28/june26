@@ -1,0 +1,3 @@
+rootProject.name = "linear layout2"
+include ':app'
+include ':combinewe26june'
